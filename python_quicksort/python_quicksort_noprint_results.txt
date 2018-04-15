@@ -1,0 +1,64 @@
+**********************************************************
+
+Unordered List:
+Trial 0 -> 	Elapsed: 0.000820159912109 seconds
+Trial 1 -> 	Elapsed: 0.000444889068604 seconds
+Trial 2 -> 	Elapsed: 0.000458955764771 seconds
+Trial 3 -> 	Elapsed: 0.000488996505737 seconds
+Trial 4 -> 	Elapsed: 0.000432014465332 seconds
+Trial 5 -> 	Elapsed: 0.000562906265259 seconds
+Trial 6 -> 	Elapsed: 0.000403165817261 seconds
+Trial 7 -> 	Elapsed: 0.000569105148315 seconds
+Trial 8 -> 	Elapsed: 0.000466108322144 seconds
+Trial 9 -> 	Elapsed: 0.000427007675171 seconds
+Average execution time: 0.00050733089447 seconds
+Size of array: 100
+
+**********************************************************
+
+Unordered List:
+Trial 0 -> 	Elapsed: 0.00626087188721 seconds
+Trial 1 -> 	Elapsed: 0.00612187385559 seconds
+Trial 2 -> 	Elapsed: 0.00549793243408 seconds
+Trial 3 -> 	Elapsed: 0.00673007965088 seconds
+Trial 4 -> 	Elapsed: 0.00560188293457 seconds
+Trial 5 -> 	Elapsed: 0.00636100769043 seconds
+Trial 6 -> 	Elapsed: 0.007493019104 seconds
+Trial 7 -> 	Elapsed: 0.00643610954285 seconds
+Trial 8 -> 	Elapsed: 0.00593900680542 seconds
+Trial 9 -> 	Elapsed: 0.00596308708191 seconds
+Average execution time: 0.00624048709869 seconds
+Size of array: 1000
+
+**********************************************************
+
+Unordered List:
+Trial 0 -> 	Elapsed: 0.0915539264679 seconds
+Trial 1 -> 	Elapsed: 0.08682513237 seconds
+Trial 2 -> 	Elapsed: 0.085128068924 seconds
+Trial 3 -> 	Elapsed: 0.0825598239899 seconds
+Trial 4 -> 	Elapsed: 0.0991280078888 seconds
+Trial 5 -> 	Elapsed: 0.0864679813385 seconds
+Trial 6 -> 	Elapsed: 0.0893218517303 seconds
+Trial 7 -> 	Elapsed: 0.0803618431091 seconds
+Trial 8 -> 	Elapsed: 0.0840201377869 seconds
+Trial 9 -> 	Elapsed: 0.0823698043823 seconds
+Average execution time: 0.0867736577988 seconds
+Size of array: 10000
+
+**********************************************************
+
+Unordered List:
+Trial 0 -> 	Elapsed: 1.28508400917 seconds
+Trial 1 -> 	Elapsed: 1.19952106476 seconds
+Trial 2 -> 	Elapsed: 1.15635800362 seconds
+Trial 3 -> 	Elapsed: 1.16530990601 seconds
+Trial 4 -> 	Elapsed: 1.38756799698 seconds
+Trial 5 -> 	Elapsed: 1.47675609589 seconds
+Trial 6 -> 	Elapsed: 1.45609593391 seconds
+Trial 7 -> 	Elapsed: 1.37850213051 seconds
+Trial 8 -> 	Elapsed: 1.2858979702 seconds
+Trial 9 -> 	Elapsed: 1.37347912788 seconds
+Average execution time: 1.31645722389 seconds
+Size of array: 100000
+
