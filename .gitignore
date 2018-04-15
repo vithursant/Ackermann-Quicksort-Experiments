@@ -1,0 +1,16 @@
+*.o
+*.d
+*.pyc
+*.bbl
+*.blg
+*.pdf
+.DS_Store
+*.aux
+*.fdb_latexmk
+*.out
+*.log
+*.synctex.gz
+*.toc
+*.fls
+quicksort
+ackermann
