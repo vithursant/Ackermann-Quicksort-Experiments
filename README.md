@@ -18,7 +18,9 @@ _This piece of work accompanies the CIS*6650 - A Study of Programming Languages 
 
 The Ackermann function, named after the German mathematician Wilhelm Ackermann, is the first compuitable function that is not primitive recurive and is a critical component of proof theory in the early 20th century. The original Ackermann function required three arguments which were defined recursively as follows for nonnegative integers m, n, and p. The version of Ackermann’s function that tends to be used nowadays is the one modified by Hungarian mathematician, Rosza Peter and by American mathematician, Raphael Robinson, which only requires two arguments. In both C and Python implementations, we declare a function *ackermann(m, n)*, a function with two incoming integer arguments (*m* and *n*) and returns an integer result, *ans*.
 
-![](images/ackermann.png)
+<p align="left">
+  <img src="images/ackermann.png" width="320" title="Ackermann Function">
+</p>
 
 Experiments were done to solve **ackermann(1,6)**, **ackermann(2,6)**, and **ackermann(3,6)** :
 
