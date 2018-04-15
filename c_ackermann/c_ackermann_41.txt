@@ -1,0 +1,18 @@
+**********************************************************
+
+Ackerman(4, 1)
+
+Trial 1 -> 	Elapsed: 22.973401 seconds
+Trial 2 -> 	Elapsed: 23.147733 seconds
+Trial 3 -> 	Elapsed: 22.474455 seconds
+Trial 4 -> 	Elapsed: 22.459701 seconds
+Trial 5 -> 	Elapsed: 22.320363 seconds
+Trial 6 -> 	Elapsed: 22.335572 seconds
+Trial 7 -> 	Elapsed: 22.634315 seconds
+Trial 8 -> 	Elapsed: 22.725523 seconds
+Trial 9 -> 	Elapsed: 23.553946 seconds
+Trial 10 -> 	Elapsed: 23.604220 seconds
+
+Average Elapsed: 22.822923 seconds
+Ackerman(4, 1) = 65533
+

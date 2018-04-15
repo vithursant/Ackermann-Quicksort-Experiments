@@ -1,0 +1,68 @@
+**********************************************************
+
+Unordered List:
+Trial 0 -> 	Elapsed: 0.000014 seconds
+Trial 1 -> 	Elapsed: 0.000012 seconds
+Trial 2 -> 	Elapsed: 0.000009 seconds
+Trial 3 -> 	Elapsed: 0.000007 seconds
+Trial 4 -> 	Elapsed: 0.000007 seconds
+Trial 5 -> 	Elapsed: 0.000006 seconds
+Trial 6 -> 	Elapsed: 0.000006 seconds
+Trial 7 -> 	Elapsed: 0.000006 seconds
+Trial 8 -> 	Elapsed: 0.000006 seconds
+Trial 9 -> 	Elapsed: 0.000006 seconds
+
+Average Elapsed: 0.000008 seconds
+Size of array: 100
+
+**********************************************************
+
+Unordered List:
+Trial 0 -> 	Elapsed: 0.000133 seconds
+Trial 1 -> 	Elapsed: 0.000130 seconds
+Trial 2 -> 	Elapsed: 0.000125 seconds
+Trial 3 -> 	Elapsed: 0.000123 seconds
+Trial 4 -> 	Elapsed: 0.000120 seconds
+Trial 5 -> 	Elapsed: 0.000120 seconds
+Trial 6 -> 	Elapsed: 0.000119 seconds
+Trial 7 -> 	Elapsed: 0.000119 seconds
+Trial 8 -> 	Elapsed: 0.000119 seconds
+Trial 9 -> 	Elapsed: 0.000119 seconds
+
+Average Elapsed: 0.000131 seconds
+Size of array: 1000
+
+**********************************************************
+
+Unordered List:
+Trial 0 -> 	Elapsed: 0.001736 seconds
+Trial 1 -> 	Elapsed: 0.001506 seconds
+Trial 2 -> 	Elapsed: 0.001479 seconds
+Trial 3 -> 	Elapsed: 0.001553 seconds
+Trial 4 -> 	Elapsed: 0.001347 seconds
+Trial 5 -> 	Elapsed: 0.001332 seconds
+Trial 6 -> 	Elapsed: 0.001332 seconds
+Trial 7 -> 	Elapsed: 0.001332 seconds
+Trial 8 -> 	Elapsed: 0.001331 seconds
+Trial 9 -> 	Elapsed: 0.001332 seconds
+
+Average Elapsed: 0.001559 seconds
+Size of array: 10000
+
+**********************************************************
+
+Unordered List:
+Trial 0 -> 	Elapsed: 0.017641 seconds
+Trial 1 -> 	Elapsed: 0.016775 seconds
+Trial 2 -> 	Elapsed: 0.016417 seconds
+Trial 3 -> 	Elapsed: 0.016560 seconds
+Trial 4 -> 	Elapsed: 0.017776 seconds
+Trial 5 -> 	Elapsed: 0.017557 seconds
+Trial 6 -> 	Elapsed: 0.020859 seconds
+Trial 7 -> 	Elapsed: 0.016539 seconds
+Trial 8 -> 	Elapsed: 0.016497 seconds
+Trial 9 -> 	Elapsed: 0.016351 seconds
+
+Average Elapsed: 0.018856 seconds
+Size of array: 100000
+

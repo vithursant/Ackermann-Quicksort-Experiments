@@ -1,0 +1,57 @@
+**********************************************************
+
+Ackermann(1,6)
+
+Trial 1 -> 	Elapsed: 9.059906005859375e-06 seconds
+Trial 2 -> 	Elapsed: 7.3909759521484375e-06 seconds
+Trial 3 -> 	Elapsed: 6.9141387939453125e-06 seconds
+Trial 4 -> 	Elapsed: 6.67572021484375e-06 seconds
+Trial 5 -> 	Elapsed: 6.67572021484375e-06 seconds
+Trial 6 -> 	Elapsed: 6.4373016357421875e-06 seconds
+Trial 7 -> 	Elapsed: 6.67572021484375e-06 seconds
+Trial 8 -> 	Elapsed: 6.4373016357421875e-06 seconds
+Trial 9 -> 	Elapsed: 7.867813110351562e-06 seconds
+Trial 10 -> 	Elapsed: 7.152557373046875e-06 seconds
+
+
+Average Elapsed: 7.128715515136718e-06 seconds
+Ackermann(1,6) = 8
+
+**********************************************************
+
+Ackermann(2,6)
+
+Trial 1 -> 	Elapsed: 4.38690185546875e-05 seconds
+Trial 2 -> 	Elapsed: 4.3392181396484375e-05 seconds
+Trial 3 -> 	Elapsed: 6.532669067382812e-05 seconds
+Trial 4 -> 	Elapsed: 4.363059997558594e-05 seconds
+Trial 5 -> 	Elapsed: 4.3392181396484375e-05 seconds
+Trial 6 -> 	Elapsed: 4.291534423828125e-05 seconds
+Trial 7 -> 	Elapsed: 4.3392181396484375e-05 seconds
+Trial 8 -> 	Elapsed: 4.315376281738281e-05 seconds
+Trial 9 -> 	Elapsed: 4.3392181396484375e-05 seconds
+Trial 10 -> 	Elapsed: 4.3392181396484375e-05 seconds
+
+
+Average Elapsed: 4.558563232421875e-05 seconds
+Ackermann(2,6) = 15
+
+**********************************************************
+
+Ackermann(3,6)
+
+Trial 1 -> 	Elapsed: 0.05737876892089844 seconds
+Trial 2 -> 	Elapsed: 0.04742288589477539 seconds
+Trial 3 -> 	Elapsed: 0.041373252868652344 seconds
+Trial 4 -> 	Elapsed: 0.037206411361694336 seconds
+Trial 5 -> 	Elapsed: 0.034258127212524414 seconds
+Trial 6 -> 	Elapsed: 0.03247785568237305 seconds
+Trial 7 -> 	Elapsed: 0.032050132751464844 seconds
+Trial 8 -> 	Elapsed: 0.032236337661743164 seconds
+Trial 9 -> 	Elapsed: 0.03208279609680176 seconds
+Trial 10 -> 	Elapsed: 0.03195810317993164 seconds
+
+
+Average Elapsed: 0.03784446716308594 seconds
+Ackermann(3,6) = 509
+

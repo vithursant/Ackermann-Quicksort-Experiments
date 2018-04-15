@@ -1,0 +1,54 @@
+**********************************************************
+
+Ackerman(1, 6)
+
+Trial 1 -> 	Elapsed: 2e-06 seconds
+Trial 2 -> 	Elapsed: 1e-06 seconds
+Trial 3 -> 	Elapsed: 1e-06 seconds
+Trial 4 -> 	Elapsed: 1e-06 seconds
+Trial 5 -> 	Elapsed: 0 seconds
+Trial 6 -> 	Elapsed: 1e-06 seconds
+Trial 7 -> 	Elapsed: 0 seconds
+Trial 8 -> 	Elapsed: 0 seconds
+Trial 9 -> 	Elapsed: 1e-06 seconds
+Trial 10 -> 	Elapsed: 1e-06 seconds
+
+Average Elapsed: 8e-07 seconds
+Ackerman(1, 6) = 8
+
+**********************************************************
+
+Ackerman(2, 6)
+
+Trial 1 -> 	Elapsed: 1e-06 seconds
+Trial 2 -> 	Elapsed: 1e-06 seconds
+Trial 3 -> 	Elapsed: 1e-06 seconds
+Trial 4 -> 	Elapsed: 2e-06 seconds
+Trial 5 -> 	Elapsed: 1e-06 seconds
+Trial 6 -> 	Elapsed: 1e-06 seconds
+Trial 7 -> 	Elapsed: 2e-06 seconds
+Trial 8 -> 	Elapsed: 2e-06 seconds
+Trial 9 -> 	Elapsed: 2e-06 seconds
+Trial 10 -> 	Elapsed: 2e-06 seconds
+
+Average Elapsed: 1.5e-06 seconds
+Ackerman(2, 6) = 15
+
+**********************************************************
+
+Ackerman(3, 6)
+
+Trial 1 -> 	Elapsed: 0.001723 seconds
+Trial 2 -> 	Elapsed: 0.001406 seconds
+Trial 3 -> 	Elapsed: 0.001521 seconds
+Trial 4 -> 	Elapsed: 0.001352 seconds
+Trial 5 -> 	Elapsed: 0.001368 seconds
+Trial 6 -> 	Elapsed: 0.001487 seconds
+Trial 7 -> 	Elapsed: 0.001712 seconds
+Trial 8 -> 	Elapsed: 0.00142 seconds
+Trial 9 -> 	Elapsed: 0.001164 seconds
+Trial 10 -> 	Elapsed: 0.001212 seconds
+
+Average Elapsed: 0.0014365 seconds
+Ackerman(3, 6) = 509
+
