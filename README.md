@@ -43,11 +43,11 @@ Recursive sorting algorithms have left an indelible mark on the history of compu
 Quicksort is a divide and conquer algorithm , which works by partitioning an array of data into two pieces. We partition based on what is less than or greater than a pivot value. In Hoare’s implementation, the partitioning scheme involves selecting the element in the right most index as the pivot. Then, we call Quicksort on each sub-partition, which is why it is a recursive algorithm. These sub-partitions then get repartitioned over and over again, recursively, until we end up with single values in the end. The recursive version of Quicksort is presented in Algorithm 1 and the partition function is presented in Algorithm 2.
 
 <p align="left">
-  <img src="images/alg1.png" width="256" title="Recursive Quicksort Algorithm">
+  <img src="images/alg1.png" width="320" title="Recursive Quicksort Algorithm">
 </p>
 
 <p align="left">
-  <img src="images/alg2.png" width="224" title="Partition Algorithm">
+  <img src="images/alg2.png" width="280" title="Partition Algorithm">
 </p>
 
 Experiments were done to sort lists containing random integers of size **100**, **1000**, **10,000**, and **100,000**, where integers were between 0 to 1,000,000.
