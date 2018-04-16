@@ -39,7 +39,7 @@ Run experiments as follows:
 ./run_python_ackermann.sh
 ```
 
-## Quicksort Algorithm Experiments
+## Quicksort Algorithm
 Recursive sorting algorithms have left an indelible mark on the history of computer science. The Quicksort function developed by computing pioneer, Sir Charles Antony Richard Hoare, is one of the most popular sorting methods used today for general purpose sorting. Quicksort is being widely used today for different purposes and it is one of the more efficient sorting algorithms. The average time complexity of Quicksort is *O(nlogn)* and can be implemented in a space complexity of *O(log n)*. Another benefit of Quicksort is that it is executed in place, resulting in very good space efficiency.
 
 Quicksort is a divide and conquer algorithm , which works by partitioning an array of data into two pieces. We partition based on what is less than or greater than a pivot value. In Hoare’s implementation, the partitioning scheme involves selecting the element in the right most index as the pivot. Then, we call Quicksort on each sub-partition, which is why it is a recursive algorithm. These sub-partitions then get repartitioned over and over again, recursively, until we end up with single values in the end. The recursive version of Quicksort is presented in Algorithm 1 and the partition function is presented in Algorithm 2.
@@ -54,6 +54,7 @@ Quicksort is a divide and conquer algorithm , which works by partitioning an arr
 
 Experiments were done to sort lists containing random integers of size **100**, **1000**, **10,000**, and **100,000**, where integers were between 0 to 1,000,000.
 
+### Quicksort Experiments
 #### C Implementation
 
 Run experiments as follows:
