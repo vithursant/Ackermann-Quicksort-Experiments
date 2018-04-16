@@ -1,7 +1,7 @@
 # Ackermann-Quicksort-Experiments
 Analysis of recursion in C and Python for the Ackermann Function and Quicksort Algorithm.
 
-_This piece of work accompanies the CIS*6650 - A Study of Programming Languages Final Assignment._
+_This piece of work accompanies the CIS*6650 - A Study of Programming Languages Final Assignment, a course taught by [Dr. Michael Wirth](https://www.uoguelph.ca/computing/people/michael-wirth)._
 
 ## Table of Contents
 * [Ackermann Function](#ackermann-function)
