@@ -22,9 +22,10 @@ The Ackermann function, named after the German mathematician Wilhelm Ackermann, 
   <img src="images/ackermann.png" width="380" title="Ackermann Function">
 </p>
 
+### Ackermann Experiments
+
 Experiments were done to solve **ackermann(1,6)**, **ackermann(2,6)**, and **ackermann(3,6)** :
 
-### Ackermann Experiments
 #### C Implementation
 
 Run experiments as follows:
@@ -52,9 +53,10 @@ Quicksort is a divide and conquer algorithm , which works by partitioning an arr
   <img src="images/alg2.png" width="280" title="Partition Algorithm">
 </p>
 
+### Quicksort Experiments
+
 Experiments were done to sort lists containing random integers of size **100**, **1000**, **10,000**, and **100,000**, where integers were between 0 to 1,000,000.
 
-### Quicksort Experiments
 #### C Implementation
 
 Run experiments as follows:
